@@ -89,7 +89,7 @@ namespace HIDMacrosSwitcher
             if(hasChanged)
             {
                 //Reopen the program so it will actually work
-                string programPath = @"C:\Users\Levi\Applications\HidMacros\starthidden";
+                string programPath = @"..\HIDMacros.exe";
                 OpenProgram(programPath);
             }
         }
@@ -148,7 +148,7 @@ namespace HIDMacrosSwitcher
                 process.Kill();
             }
         }
-        public static void OpenProgram(string programPath)
+        public void OpenProgram(string programPath)
         {
             try
             {
@@ -156,9 +156,11 @@ namespace HIDMacrosSwitcher
             }
             catch (Exception ex)
             {
+                DetectionTimer.Stop();
                 // Handle any exceptions that may occur when trying to open the program
                 // For example, display an error message
-                MessageBox.Show("Error: " + ex.Message);
+                MessageBox.Show("Error: " + ex.Message + "\n Be sure you have read the readme file and understand where this .exe should be placed!");
+                this.Close();
             }
         }
 

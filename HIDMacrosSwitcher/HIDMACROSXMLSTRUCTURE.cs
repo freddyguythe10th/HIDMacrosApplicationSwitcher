@@ -76,6 +76,9 @@ namespace HIDMacrosSwitcher
 
         [XmlElement("Command")]
         public string Command { get; set; }
+
+        [XmlElement("Sequence")]
+        public string Sequence { get; set; }
         // Add other properties as needed
     }
 
