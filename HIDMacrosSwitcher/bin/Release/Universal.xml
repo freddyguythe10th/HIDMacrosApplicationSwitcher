@@ -1,0 +1,113 @@
+<Config>
+  <General>
+    <Language>English</Language>
+    <ScriptLanguage>VBScript</ScriptLanguage>
+    <ProcBegin>Sub %s</ProcBegin>
+    <ProcEnd>End Sub</ProcEnd>
+    <ScriptRoutines></ScriptRoutines>
+    <MinimizeToTray>1</MinimizeToTray>
+    <StartMinimized>1</StartMinimized>
+    <AllowScriptGUI>0</AllowScriptGUI>
+    <ScriptTimeout>10</ScriptTimeout>
+    <BufferTimeout>2000</BufferTimeout>
+    <BufferNotification>1</BufferNotification>
+    <BackupsCount>0</BackupsCount>
+    <BackupPath>backup</BackupPath>
+  </General>
+  <Macros>
+    <Macro>
+      <Device>Keyb4</Device>
+      <Name>Secondary Copy</Name>
+      <KeyCode>67</KeyCode>
+      <Direction>down</Direction>
+      <Action>CMD</Action>
+      <Sequence></Sequence>
+      <SCEvent></SCEvent>
+      <XPLCommand></XPLCommand>
+      <ScriptSource></ScriptSource>
+      <SCText>0</SCText>
+      <SCParams></SCParams>
+      <Command>"C:\Users\Levi\Applications\HidMacros\Custom Scripts\SecondaryCopy.ahk"</Command>
+    </Macro>
+    <Macro>
+      <Device>Keyb4</Device>
+      <Name>Secondary Cut</Name>
+      <KeyCode>88</KeyCode>
+      <Direction>down</Direction>
+      <Action>CMD</Action>
+      <Sequence></Sequence>
+      <SCEvent></SCEvent>
+      <XPLCommand></XPLCommand>
+      <ScriptSource></ScriptSource>
+      <SCText>0</SCText>
+      <SCParams></SCParams>
+      <Command>"C:\Users\Levi\Applications\HidMacros\Custom Scripts\SecondaryCut.ahk"</Command>
+    </Macro>
+    <Macro>
+      <Device>Keyb4</Device>
+      <Name>Secondary Paste</Name>
+      <KeyCode>86</KeyCode>
+      <Direction>down</Direction>
+      <Action>CMD</Action>
+      <Sequence></Sequence>
+      <SCEvent></SCEvent>
+      <XPLCommand></XPLCommand>
+      <ScriptSource></ScriptSource>
+      <SCText>0</SCText>
+      <SCParams></SCParams>
+      <Command>"C:\Users\Levi\Applications\HidMacros\Custom Scripts\SecondaryPaste.ahk"</Command>
+    </Macro>
+  </Macros>
+  <Devices>
+    <Keyboard>
+      <Name>Keyb6</Name>
+      <SystemID>\\?\MICROSOFT KEYBOARD RID\0</SystemID>
+    </Keyboard>
+    <Keyboard>
+      <Name>Keyb1</Name>
+      <SystemID>\\?\HID#VID_28DE&amp;PID_1142&amp;MI_00&amp;COL01#8&amp;193F1478&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Keyboard>
+    <Keyboard>
+      <Name>Keyb2</Name>
+      <SystemID>\\?\HID#VID_046D&amp;PID_C534&amp;MI_00#8&amp;8B194F9&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Keyboard>
+    <Keyboard>
+      <Name>Keyb3</Name>
+      <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_01&amp;COL01#8&amp;F754A69&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Keyboard>
+    <Keyboard>
+      <Name>Keyb4</Name>
+      <SystemID>\\?\HID#VID_413C&amp;PID_2107#7&amp;1743ABB4&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Keyboard>
+    <Keyboard>
+      <Name>Keyb5</Name>
+      <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_00#8&amp;2738D6AE&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Keyboard>
+    <Mouse>
+      <Name>Mouse1</Name>
+      <SystemID>\\?\HID#VID_046D&amp;PID_C534&amp;MI_01&amp;COL01#8&amp;2C88D2BB&amp;0&amp;0000#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Mouse>
+    <Mouse>
+      <Name>Mouse2</Name>
+      <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_01&amp;COL05#8&amp;F754A69&amp;0&amp;0004#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Mouse>
+    <Mouse>
+      <Name>Mouse3</Name>
+      <SystemID>\\?\HID#VID_28DE&amp;PID_1142&amp;MI_00&amp;COL02#8&amp;193F1478&amp;0&amp;0001#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Mouse>
+  </Devices>
+  <Map>
+    <LastLatitude>50.10188601965</LastLatitude>
+    <LastLongitude>14.2264752029291</LastLongitude>
+    <LastZoom>13</LastZoom>
+    <Locked>1</Locked>
+    <AlwaysOnTop>0</AlwaysOnTop>
+    <WindowLeft>182</WindowLeft>
+    <WindowTop>182</WindowTop>
+    <WindowWidth>434</WindowWidth>
+    <WindowHeight>321</WindowHeight>
+    <WindowMaximized>1</WindowMaximized>
+    <WindowVisible>0</WindowVisible>
+    <ShowLayers>1</ShowLayers>
+  </Map>
+</Config>

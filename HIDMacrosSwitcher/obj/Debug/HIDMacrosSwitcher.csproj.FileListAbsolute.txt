@@ -1,0 +1,10 @@
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\bin\Debug\HIDMacrosSwitcher.exe.config
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\bin\Debug\HIDMacrosSwitcher.exe
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\bin\Debug\HIDMacrosSwitcher.pdb
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Debug\HIDMacrosSwitcher.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Debug\HIDMacrosSwitcher.Form1.resources
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Debug\HIDMacrosSwitcher.Properties.Resources.resources
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Debug\HIDMacrosSwitcher.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Debug\HIDMacrosSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Debug\HIDMacrosSwitcher.exe
+C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Debug\HIDMacrosSwitcher.pdb
