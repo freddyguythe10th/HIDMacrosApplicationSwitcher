@@ -8,3 +8,13 @@ C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.cspro
 C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.csproj.CoreCompileInputs.cache
 C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.exe
 C:\Users\Levi\source\repos\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.pdb
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\bin\Release\HIDMacrosSwitcher.exe.config
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\bin\Release\HIDMacrosSwitcher.exe
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\bin\Release\HIDMacrosSwitcher.pdb
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.csproj.AssemblyReference.cache
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.Form1.resources
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.Properties.Resources.resources
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.exe
+C:\Users\Levi\source\repos\HIDMacrosApplicationSwitcher\HIDMacrosSwitcher\obj\Release\HIDMacrosSwitcher.pdb

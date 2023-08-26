@@ -1,7 +1,7 @@
 <Config>
   <Macros>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Close Tab</Name>
       <KeyCode>8</KeyCode>
       <Direction>down</Direction>
@@ -15,7 +15,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>First Tab</Name>
       <KeyCode>49</KeyCode>
       <Direction>down</Direction>
@@ -29,7 +29,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Next Tab</Name>
       <KeyCode>69</KeyCode>
       <Direction>down</Direction>
@@ -43,7 +43,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Open New Tab</Name>
       <KeyCode>32</KeyCode>
       <Direction>down</Direction>
@@ -57,7 +57,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Previous Tab</Name>
       <KeyCode>81</KeyCode>
       <Direction>down</Direction>
@@ -71,7 +71,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Second Tab</Name>
       <KeyCode>50</KeyCode>
       <Direction>down</Direction>
@@ -85,7 +85,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Third Tab</Name>
       <KeyCode>51</KeyCode>
       <Direction>down</Direction>
@@ -99,7 +99,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Fourth Tab</Name>
       <KeyCode>52</KeyCode>
       <Direction>down</Direction>
@@ -113,7 +113,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Fifth Tab</Name>
       <KeyCode>53</KeyCode>
       <Direction>down</Direction>
@@ -127,7 +127,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Sixth Tab</Name>
       <KeyCode>54</KeyCode>
       <Direction>down</Direction>
@@ -141,7 +141,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Seventh Tab</Name>
       <KeyCode>55</KeyCode>
       <Direction>down</Direction>
@@ -155,7 +155,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Eighth Tab</Name>
       <KeyCode>56</KeyCode>
       <Direction>down</Direction>
@@ -169,7 +169,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Ninth Tab</Name>
       <KeyCode>57</KeyCode>
       <Direction>down</Direction>
@@ -183,7 +183,7 @@
       <Command></Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Secondary Copy</Name>
       <KeyCode>67</KeyCode>
       <Direction>down</Direction>
@@ -197,7 +197,7 @@
       <Command>"C:\Users\Levi\Applications\HidMacros\Custom Scripts\SecondaryCopy.ahk"</Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Secondary Cut</Name>
       <KeyCode>88</KeyCode>
       <Direction>down</Direction>
@@ -211,7 +211,7 @@
       <Command>"C:\Users\Levi\Applications\HidMacros\Custom Scripts\SecondaryCut.ahk"</Command>
     </Macro>
     <Macro>
-      <Device>Keyb4</Device>
+      <Device>macro</Device>
       <Name>Secondary Paste</Name>
       <KeyCode>86</KeyCode>
       <Direction>down</Direction>

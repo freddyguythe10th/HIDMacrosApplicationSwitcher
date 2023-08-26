@@ -5,7 +5,7 @@
     <ProcBegin>Sub %s</ProcBegin>
     <ProcEnd>End Sub</ProcEnd>
     <ScriptRoutines></ScriptRoutines>
-    <MinimizeToTray>1</MinimizeToTray>
+    <MinimizeToTray>0</MinimizeToTray>
     <StartMinimized>1</StartMinimized>
     <AllowScriptGUI>0</AllowScriptGUI>
     <ScriptTimeout>10</ScriptTimeout>
@@ -17,42 +17,46 @@
   <Macros>
   </Macros>
   <Devices>
+    <Mouse>
+      <Name>Mouse1</Name>
+      <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_01&amp;COL05#8&amp;F754A69&amp;0&amp;0004#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Mouse>
     <Keyboard>
       <Name>Keyb1</Name>
-      <SystemID>\\?\HID#VID_28DE&amp;PID_1142&amp;MI_00&amp;COL01#8&amp;193F1478&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
-    </Keyboard>
-    <Keyboard>
-      <Name>Keyb2</Name>
-      <SystemID>\\?\HID#VID_046D&amp;PID_C534&amp;MI_00#8&amp;8B194F9&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
-    </Keyboard>
-    <Keyboard>
-      <Name>Keyb3</Name>
       <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_01&amp;COL01#8&amp;F754A69&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
     </Keyboard>
     <Keyboard>
-      <Name>Keyb4</Name>
+      <Name>Keyb2</Name>
+      <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_00#8&amp;2738D6AE&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Keyboard>
+    <Mouse>
+      <Name>Mouse2</Name>
+      <SystemID>\\?\HID#VID_3938&amp;PID_1215&amp;MI_02#8&amp;B538FE5&amp;0&amp;0000#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Mouse>
+    <Keyboard>
+      <Name>Keyb3</Name>
+      <SystemID>\\?\HID#VID_3938&amp;PID_1215&amp;MI_01&amp;COL01#8&amp;23171C2A&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Keyboard>
+    <Mouse>
+      <Name>Mouse3</Name>
+      <SystemID>\\?\HID#VID_3938&amp;PID_1215&amp;MI_00#8&amp;C02198&amp;0&amp;0000#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+    </Mouse>
+    <Keyboard>
+      <Name>macro</Name>
       <SystemID>\\?\HID#VID_413C&amp;PID_2107#7&amp;1743ABB4&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
     </Keyboard>
     <Keyboard>
       <Name>Keyb5</Name>
-      <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_00#8&amp;2738D6AE&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+      <SystemID>\\?\HID#VID_1CBE&amp;PID_0114&amp;COL01#1&amp;2D595CA7&amp;0&amp;0000#{884B96C3-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
     </Keyboard>
     <Mouse>
-      <Name>Mouse1</Name>
-      <SystemID>\\?\HID#VID_046D&amp;PID_C534&amp;MI_01&amp;COL01#8&amp;2C88D2BB&amp;0&amp;0000#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+      <Name>Mouse4</Name>
+      <SystemID>\\?\HID#VID_1CBE&amp;PID_0114&amp;COL04#1&amp;2D595CA7&amp;0&amp;0003#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
     </Mouse>
     <Mouse>
-      <Name>Mouse2</Name>
-      <SystemID>\\?\HID#VID_320F&amp;PID_5037&amp;MI_01&amp;COL05#8&amp;F754A69&amp;0&amp;0004#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
+      <Name>Mouse5</Name>
+      <SystemID>\\?\HID#VID_1CBE&amp;PID_0114&amp;COL03#1&amp;2D595CA7&amp;0&amp;0002#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
     </Mouse>
-    <Mouse>
-      <Name>Mouse3</Name>
-      <SystemID>\\?\HID#VID_28DE&amp;PID_1142&amp;MI_00&amp;COL02#8&amp;193F1478&amp;0&amp;0001#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}</SystemID>
-    </Mouse>
-    <Keyboard>
-      <Name>Keyb6</Name>
-      <SystemID>\\?\MICROSOFT KEYBOARD RID\0</SystemID>
-    </Keyboard>
   </Devices>
   <Map>
     <LastLatitude>50.10188601965</LastLatitude>

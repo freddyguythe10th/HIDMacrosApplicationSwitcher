@@ -26,6 +26,21 @@ namespace HIDMacrosSwitcher
 
     public class Devices
     {
+        [XmlElement("Keyboard")]
+        public List<Keyboard> KeyboardList { get; set; }
+
+        [XmlElement("Mouse")]
+        public List<Keyboard> MouseList { get; set; }
+    }
+    public class Mouse
+    {
+        [XmlElement("Name")]
+        public string Name;
+        [XmlElement("SystemID")]
+        public string SystemID;
+    }
+    public class Keyboard
+    {
         [XmlElement("Name")]
         public string Name;
         [XmlElement("SystemID")]

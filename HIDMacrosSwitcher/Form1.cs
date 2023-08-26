@@ -153,6 +153,7 @@ namespace HIDMacrosSwitcher
             try
             {
                 Process.Start(programPath);
+                
             }
             catch (Exception ex)
             {
